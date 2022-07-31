@@ -25,4 +25,4 @@ server.use((req, res) => {
 
 
 //Não utilizei a variavel de ambiente mas poderia ter utilizado com process.env.PORT
-server.listen(3000);
+server.listen(process.env.PORT);
