@@ -21,4 +21,4 @@ Projeto feito no modulo do curso de Node + Typescript
 
 
 
-  * Veja o projeto em funcionamento aqui: [Hotel Paraíso](https://boiling-anchorage-23513.herokuapp.com/) 🖱.
+  * Veja o projeto em funcionamento aqui: [PETDEVSHOP](https://boiling-anchorage-23513.herokuapp.com/) 🖱.
