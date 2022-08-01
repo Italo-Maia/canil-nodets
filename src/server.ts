@@ -17,12 +17,10 @@ server.use(express.static(path.join(__dirname, '../public')));
 // Rotas
 server.use(mainRoutes);
 
-
 // Rota não encontrada
 server.use((req, res) => {
     res.render(`pages/404`)
-})
-
+});
 
 //Não utilizei a variavel de ambiente mas poderia ter utilizado com process.env.PORT
 server.listen(process.env.PORT);
